@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/VardaanSharma100/News-Detector-in-Indian-Languages.git
+   git clone https://github.com/sombir210/News-Detector-in-Indian-Languages.git
    cd "News-Detector-in-Indian-Languages"
    ```
 
